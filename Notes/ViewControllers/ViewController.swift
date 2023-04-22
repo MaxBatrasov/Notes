@@ -19,7 +19,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.firstLaunchCheck()
         self.offlineLoad()
-        print("test")
     }
     
     @IBAction func addButtonPressed(_ sender: UIBarButtonItem) {
