@@ -3,3 +3,5 @@
 /Notes.xcodeproj/project.xcworkspace/xcuserdata/maxim.xcuserdatad/UserInterfaceState.xcuserstate
 /Notes.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
 /Notes.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+*.xcuserstate
+*.plist
